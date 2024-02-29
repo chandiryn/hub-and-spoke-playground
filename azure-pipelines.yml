@@ -19,7 +19,7 @@ steps:
     resourceGroupName: 'ARM-HUB-01'
     location: 'West Europe'
     templateLocation: 'URL of the file'
-    csmFileLink: 'https://github.com/chandiryn/hub-and-spoke-playground/tree/main/hub-01-bicep'
+    csmFileLink: 'https://github.com/chandiryn/hub-and-spoke-playground/tree/main/hub-01.json'
     overrideParameters: 'ARM-HUB-01'
     deploymentMode: 'Incremental'
     deploymentName: 'DeployPipelineTemplate'
